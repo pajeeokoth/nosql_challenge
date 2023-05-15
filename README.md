@@ -5,8 +5,11 @@ In this challenge I will create a database named uk_food and the collection esta
 Import the necessary libraries and create an instance of Mongo client.
 
 Confirm that database successfully created and the data properly loaded by:
+
     - List the databases in MongoDB. Confirm that uk_food is listed.
+
     - List the collection(s) in the database to ensure that establishments is there.
+    
     - Find and display one document in the establishments collection using find_one and display with pprint.
 
 Update database by adding a recored to the collections.
